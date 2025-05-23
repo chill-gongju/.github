@@ -100,4 +100,4 @@
 
 | Study       | Date                    |  Member |
 |:------------------:|:-------------------------:|:--: |
-| [Spring-Study](https://github.com/chill-gongju/Spring-Study) | 2025.02.24 - ing | [종훈](https://github.com/jonghoon-L), [희범](https://github.com/heebeom-song), [지현](https://github.com/wlqgkrry) |
+| [Spring-Study](https://github.com/chill-gongju/Spring-Study) | 2025.05.08 - ing | [종훈](https://github.com/jonghoon-L), [희범](https://github.com/heebeom-song), [지현](https://github.com/wlqgkrry) |
