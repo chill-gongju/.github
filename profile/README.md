@@ -107,4 +107,11 @@
 
 | Study       | Date                    |  Member |
 |:------------------:|:-------------------------:|:--: |
-| [Typescript-Study](https://github.com/chill-gongju/Typescript-Study) | 2025.07.02 - 2025.07.16 | [소연](https://github.com/eesoyeon), [유성](https://github.com/meteorqz6)|
+| [Typescript-Study](https://github.com/chill-gongju/Typescript-Study) | 2025.07.02 - 2025.07.23 | [소연](https://github.com/eesoyeon), [유성](https://github.com/meteorqz6)|
+
+### 6️⃣ Next-Study
+> 인프런 ‘한 입 크기로 잘라먹는 Next.js’ 강의를 듣고, 공부한 내용을 공유하는 스터디입니다.
+
+| Study       | Date                    |  Member |
+|:------------------:|:-------------------------:|:--: |
+| [Next-Study](https://github.com/chill-gongju/Next-Study) | 2025.08.14 - ing | [소연](https://github.com/eesoyeon), [유성](https://github.com/meteorqz6), [채연](https://github.com/chaeon1), [정욱](https://github.com/nowrobin) |
